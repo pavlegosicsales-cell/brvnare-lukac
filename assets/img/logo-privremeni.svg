@@ -1,0 +1,9 @@
+<!-- [LOGO: privremeni] Znak dok ne stigne pravi logo. Brvnara A-oblika u
+     zlatnoj iz natpisa LUKAČ. Zamijeniti fajlom logo-lukac.png. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 360">
+  <g fill="none" stroke="#D9A85C" stroke-width="22" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M150 30 L270 330 H30 Z"/>
+    <path d="M150 130 L218 300 H82 Z"/>
+    <path d="M150 210 V300"/>
+  </g>
+</svg>
